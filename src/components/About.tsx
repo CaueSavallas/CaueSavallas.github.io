@@ -6,7 +6,9 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">Sobre Mim</h3>
         <p className="para">
-         Estudante de Ciência da Computação focado em desenvolvimento e automação com Python, SQL e APIs REST. 
+         Estudante de Ciência da Computação focado em desenvolvimento e automação com Python, SQL e APIs REST.
+         Com entendimeto de Hardware e Suporte Técnico, na montagem, desmontagem, manutançäo, otmizaçäo,
+         configuraçäo e isntalaçäo de drivers no computadores 
          Busco um estágio pra aplicar meus projetos na prática e ajudar a resolver problemas reais da empresa.
         </p>
       </div>
